@@ -340,11 +340,10 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Image" width="30" height="30"/>
-        <image name="collection_30x30" width="30" height="30"/>
+        <image name="Image" width="60" height="60"/>
+        <image name="collection_30x30" width="60" height="61"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="ZcP-FP-8ep"/>
         <segue reference="kvc-Bg-I2O"/>
         <segue reference="AMv-Mo-4t1"/>
     </inferredMetricsTieBreakers>
